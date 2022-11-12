@@ -4,8 +4,7 @@
 - 
 - 🌱 I am currently studying ethical hacker.
 - 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Discord: BurakJ#8927 or Instagram: 
+- 📫 How to reach me: Discord: BurakJ#8927 or Instagram: buurak_j
 
 <!---
 BurakJ/BurakJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
