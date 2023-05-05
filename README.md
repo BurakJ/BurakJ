@@ -1,10 +1,10 @@
-- 👋 Hi, I’m BurakJ. I'm 18 years old. I'm about to finish high school. I live in Turkey. I am very interested in the cyber security field. Learning to code makes me very happy.
+- 👋 Hi, I'm BurakJ. I'm 18 years old. I'm about to finish high school. I live in Turkey. I am very interested in cyber security. I want to spend my life as a hacker.
 - 
-- 👀 I’m interested in I am very interested in cyber security.
+- 👀 I am very interested in cyber security.
 - 
-- 🌱 I am currently studying ethical hacker.
+- 🌱 I'm working on ethical hacking.
 - 
-- 📫 How to reach me: Discord: BurakJ#8927 or Instagram: buurak_j
+- 📫 You can reach me at: Discord: BurakJ#8927 or Instagram: buurak_j
 
 <!---
 BurakJ/BurakJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
